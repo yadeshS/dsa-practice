@@ -1,6 +1,8 @@
 # dsa-practice
 Daily practice of Data Structures and Algorithms with clean, well-documented solutions to strengthen problem-solving and interview readiness.
 
+_Last updated: November 2026_
+
 # Data Structures and Algorithms Practice
 
 This repository contains my daily practice of **Data Structures and Algorithms (DSA)**.  
